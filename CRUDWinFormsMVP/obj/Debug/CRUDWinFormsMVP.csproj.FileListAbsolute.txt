@@ -20,3 +20,14 @@ D:\RJ Code Advance\Source Code C#\2022\CRUDWinFormsMVP - Parte 3\CRUDWinFormsMVP
 D:\RJ Code Advance\Source Code C#\2022\CRUDWinFormsMVP - Parte 3\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.csproj.CoreCompileInputs.cache
 D:\RJ Code Advance\Source Code C#\2022\CRUDWinFormsMVP - Parte 3\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.exe
 D:\RJ Code Advance\Source Code C#\2022\CRUDWinFormsMVP - Parte 3\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.pdb
+C:\Users\Couga\source\repos\ITP4523M-noidea-ASM\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\CRUDWinFormsMVP\bin\Debug\CRUDWinFormsMVP.exe.config
+C:\Users\Couga\source\repos\ITP4523M-noidea-ASM\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\CRUDWinFormsMVP\bin\Debug\CRUDWinFormsMVP.exe
+C:\Users\Couga\source\repos\ITP4523M-noidea-ASM\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\CRUDWinFormsMVP\bin\Debug\CRUDWinFormsMVP.pdb
+C:\Users\Couga\source\repos\ITP4523M-noidea-ASM\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.csproj.AssemblyReference.cache
+C:\Users\Couga\source\repos\ITP4523M-noidea-ASM\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.Properties.Resources.resources
+C:\Users\Couga\source\repos\ITP4523M-noidea-ASM\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.Views.MainView.resources
+C:\Users\Couga\source\repos\ITP4523M-noidea-ASM\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.Views.PetView.resources
+C:\Users\Couga\source\repos\ITP4523M-noidea-ASM\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.csproj.GenerateResource.cache
+C:\Users\Couga\source\repos\ITP4523M-noidea-ASM\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.csproj.CoreCompileInputs.cache
+C:\Users\Couga\source\repos\ITP4523M-noidea-ASM\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.exe
+C:\Users\Couga\source\repos\ITP4523M-noidea-ASM\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\CRUDWinFormsMVP\obj\Debug\CRUDWinFormsMVP.pdb

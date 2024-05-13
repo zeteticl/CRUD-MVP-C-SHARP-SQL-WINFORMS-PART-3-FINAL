@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Couga\\source\\repos\\ITP4523M-noidea-ASM\\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2F0CD7-CF1B-41F9-A9B9-132EBA642217}|CRUDWinFormsMVP\\CRUDWinFormsMVP.csproj|c:\\users\\couga\\source\\repos\\itp4523m-noidea-asm\\crud-mvp-c-sharp-sql-winforms-part-3-final\\crudwinformsmvp\\views\\ipetview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2F0CD7-CF1B-41F9-A9B9-132EBA642217}|CRUDWinFormsMVP\\CRUDWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\views\\ipetview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2F0CD7-CF1B-41F9-A9B9-132EBA642217}|CRUDWinFormsMVP\\CRUDWinFormsMVP.csproj|c:\\users\\couga\\source\\repos\\itp4523m-noidea-asm\\crud-mvp-c-sharp-sql-winforms-part-3-final\\crudwinformsmvp\\views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C2F0CD7-CF1B-41F9-A9B9-132EBA642217}|CRUDWinFormsMVP\\CRUDWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\views\\imainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2F0CD7-CF1B-41F9-A9B9-132EBA642217}|CRUDWinFormsMVP\\CRUDWinFormsMVP.csproj|c:\\users\\couga\\source\\repos\\itp4523m-noidea-asm\\crud-mvp-c-sharp-sql-winforms-part-3-final\\crudwinformsmvp\\views\\petview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C2F0CD7-CF1B-41F9-A9B9-132EBA642217}|CRUDWinFormsMVP\\CRUDWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\views\\petview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C2F0CD7-CF1B-41F9-A9B9-132EBA642217}|CRUDWinFormsMVP\\CRUDWinFormsMVP.csproj|c:\\users\\couga\\source\\repos\\itp4523m-noidea-asm\\crud-mvp-c-sharp-sql-winforms-part-3-final\\crudwinformsmvp\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C2F0CD7-CF1B-41F9-A9B9-132EBA642217}|CRUDWinFormsMVP\\CRUDWinFormsMVP.csproj|solutionrelative:crudwinformsmvp\\views\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IMainView.cs",
+              "DocumentMoniker": "C:\\Users\\Couga\\source\\repos\\ITP4523M-noidea-ASM\\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\\CRUDWinFormsMVP\\Views\\IMainView.cs",
+              "RelativeDocumentMoniker": "CRUDWinFormsMVP\\Views\\IMainView.cs",
+              "ToolTip": "C:\\Users\\Couga\\source\\repos\\ITP4523M-noidea-ASM\\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\\CRUDWinFormsMVP\\Views\\IMainView.cs",
+              "RelativeToolTip": "CRUDWinFormsMVP\\Views\\IMainView.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:28:00.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IPetView.cs",
+              "DocumentMoniker": "C:\\Users\\Couga\\source\\repos\\ITP4523M-noidea-ASM\\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\\CRUDWinFormsMVP\\Views\\IPetView.cs",
+              "RelativeDocumentMoniker": "CRUDWinFormsMVP\\Views\\IPetView.cs",
+              "ToolTip": "C:\\Users\\Couga\\source\\repos\\ITP4523M-noidea-ASM\\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\\CRUDWinFormsMVP\\Views\\IPetView.cs",
+              "RelativeToolTip": "CRUDWinFormsMVP\\Views\\IPetView.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:27:55.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Couga\\source\\repos\\ITP4523M-noidea-ASM\\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\\CRUDWinFormsMVP\\Views\\MainView.cs",
+              "RelativeDocumentMoniker": "CRUDWinFormsMVP\\Views\\MainView.cs",
+              "ToolTip": "C:\\Users\\Couga\\source\\repos\\ITP4523M-noidea-ASM\\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\\CRUDWinFormsMVP\\Views\\MainView.cs [Design]",
+              "RelativeToolTip": "CRUDWinFormsMVP\\Views\\MainView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:27:53.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PetView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Couga\\source\\repos\\ITP4523M-noidea-ASM\\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\\CRUDWinFormsMVP\\Views\\PetView.cs",
+              "RelativeDocumentMoniker": "CRUDWinFormsMVP\\Views\\PetView.cs",
+              "ToolTip": "C:\\Users\\Couga\\source\\repos\\ITP4523M-noidea-ASM\\CRUD-MVP-C-SHARP-SQL-WINFORMS-PART-3-FINAL\\CRUDWinFormsMVP\\Views\\PetView.cs [Design]",
+              "RelativeToolTip": "CRUDWinFormsMVP\\Views\\PetView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T05:27:51.598Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
